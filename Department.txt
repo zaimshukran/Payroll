@@ -1,0 +1,5 @@
+Name      Employee No    Department          Hire Date      Shift Name     Pay Rate       
+-----------------------------------------------------------------------------------------
+Susan     902-A          Accounting          05/16/2009     Morning Shift  RM16.25
+Alex      823-S          Shipping            06/21/2000     Swing Shift    RM17.50
+Ahmad     788-H          Human Resources     12/1/2003      
